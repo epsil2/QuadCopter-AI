@@ -44,7 +44,7 @@ python -m pip install pip==21
 ### **2. Install the package with pip in your terminal:**
 
 ```bash
-pip install git+https://github.com/epsil2/QuadCopterAI.git
+pip install git+https://github.com/epsil2/QuadCopter-AI.git
 ```
 
 ### **3. Run the game:**
