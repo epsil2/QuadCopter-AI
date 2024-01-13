@@ -2,7 +2,7 @@ pip==21
 setuptools==65.5.0
 stable-baselines3==1.7.0
 gym==0.26.2
-numpy==
+numpy
 pygame==2.5.1
 shimmy==1.2.1
 wandb==0.15.10
